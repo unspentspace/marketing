@@ -23,9 +23,10 @@ Where-ever possible, try to incorporate free and open source software for all ac
 ## Details
 
 ### Colours
-- Logo Yellow RGB 240 179 62, Grey 114 107 97
-- Dark backgrounds 21 27 24
-- Alternative highlights Light orange 243 175 86 
+- Logo _uYellow RGB 240 179 62 HEX #f0b33e, _uGrey 114 107 97
+- Dark backgrounds _uBlack 21 27 24 #131b23
+- Text _uWhite 229 231 236
+- Alternative highlights _uOrange 243 175 86 #f9b33e 
 
 ### Typology
 
