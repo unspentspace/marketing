@@ -24,7 +24,7 @@ Where-ever possible, try to incorporate free and open source software for all ac
 - No swearing in public comunications as we want to be family friendly, you never now when a 5 year old is watching
 - Succint, no nonsence
 
-# Market8ing Copy Details
+# Marketing Copy Details
 All marketing and communications shall be done using the followiing details where practicle. In every occation possible where unspent.space is written it is to be written in this form, lower case and true to the URL. This also continues to the specific locations for example unspent.space/melbourne or /melbourne.
 
 ## Colours
