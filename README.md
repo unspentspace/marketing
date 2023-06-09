@@ -19,3 +19,13 @@ Another example of where privacy can be maintained is ensuring adherance to resp
 
 ### Free and Open Source Software
 Where-ever possible, try to incorporate free and open source software for all activities. For example, rather than paying for a booking software, use an open source repository for building this.
+
+## Details
+
+### Colours
+- Logo Yellow RGB 240 179 62, Grey 114 107 97
+- Dark backgrounds 21 27 24
+- Alternative highlights Light orange 243 175 86 
+
+### Typology
+
