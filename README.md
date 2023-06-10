@@ -22,7 +22,7 @@ Where-ever possible, try to incorporate free and open source software for all ac
 - Respect for others
 - Quality listening
 - No swearing in public comunications as we want to be family friendly, you never now when a 5 year old is watching
-- Succint, no nonsence
+- Succinct, no nonsence
 
 # Marketing Copy Details
 All marketing and communications shall be done using the followiing details where practicle. In every occation possible where unspent.space is written it is to be written in this form, lower case and true to the URL. This also continues to the specific locations for example unspent.space/melbourne or /melbourne.
@@ -49,13 +49,15 @@ The long form logo is comprise of the one of three extentions
 3. City or site specific only is lower case with a slash before it as above. For example /melbourne
 
 ### Combined Icon and Long Form
-- TBC
+Logo can be combined in forms described
+- Iconic Logo set in top left corner
+- unspent.space, unspent.space/[your city here] or /[your city here] to be centred 
 
 
 ### General Text
 - Helvetica in _uBLack or _uWhite
 - Centred or left justified
-- Corect capitolisations
+- Correct capitolisations
 - Typo free
 - Emojis are incouraged
 - Titles and paragraphing should duplicate the github markdown
