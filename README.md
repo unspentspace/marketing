@@ -46,7 +46,7 @@ The icon is presented as either a square with rounded corners or a circle it can
 The long form logo is comprise of the one of three extentions
 1. unspent.space typed as such in Helvetica in -uWhilte or in _uBlack
 2. unspent.space/[your city here] typed as such in Helvetica in -uWhilte or in _uBlack. Where practicle the slash is to be bold and -uYellow
-3. City or site specific only is lower case with a slash before it as above. For example /melbourne
+3. City or site specific names that would normally be capitalised are not when in the Long Form Logo. Ie they are only lower case with a slash before it as above. For example /melbourne when prominant or centered in the Helvetica, but in all other cases capitals are included.
 
 ### Combined Icon and Long Form
 Logo can be combined in forms described
