@@ -27,6 +27,9 @@ Where-ever possible, try to incorporate free and open source software for all ac
 ## Marketing copy details
 All marketing and communications shall be done using the followiing details where practical. In every occasion possible where unspent.space is written it is to be written in this form, lower case and true to the URL. This also continues to the specific locations for example unspent.space/melbourne or /melbourne.
 
+## Figma design file
+Open viewable file with design artifacts: [https://www.figma.com/file/Ru5ceAQcfhFGyQegn8YuEh/unspentspace's-team-library?type=design&node-id=0%3A1&mode=design&t=ayyfCzoOIqnt9ay4-1](https://www.figma.com/file/Ru5ceAQcfhFGyQegn8YuEh/unspentspace's-team-library?type=design&node-id=0%3A1&mode=design&t=ayyfCzoOIqnt9ay4-1)
+
 ## Colours
 - Logo _uYellow RGB 240 179 62 HEX #f0b33e, _uGrey 114 107 97 #726b61
 - Dark backgrounds _uBlack 21 27 24 #131b23
