@@ -2,29 +2,29 @@
 
 This file countains our shared marketing resources, put marketing copy, logo files, fonts and colour schemes here so everyone can use them.
 
-# 🧡 Design Principles
+## 🧡 Design Principles
 These are the guiding principles that unspent.space's should incorporate when designed. This also begins to outline the key operational attributes which make unspent.space special. 
 
-## 📍 Location selection for unspent.space/[your city here] 
+### 📍 Location selection for unspent.space/[your city here] 
 The space should be empty before ocupied or otehrwise significantly unused, neglected or disregarded, and not necessarily highly regarded. It can be in a central location and it could be a space that is looking for a little bit of love.Generally there woudl be one unspent.space per city, though if capacity fills up these can be split and specialised. Eg one space may be more public and corporate work focused and another may be more cypherpunk.
 
-## 🎁 Privacy
+### 🎁 Privacy
 When designed the physical environment for the space and also the logistics for how members interact with the space, privacy should be forefront of mind. For example, where possible, avoid members having to dox themselves. Instead of accepting membership payments via fiat rails online, you can accept bitcoin, cash or trade space for a helpful hand.
 
-## 🫶 Multisig Bonds
+### 🫶 Multisig Bonds
 Rather than using surveillance inside the building unspent.space has a multisig bond systen which help build trust between members and inssure the security of the locations.
 
-## 🤗 Free and Open Source Software
+### 🤗 Free and Open Source Software
 Where-ever possible, try to incorporate free and open source software for all activities. For example, rather than paying for booking/reservation software, we use an open source repository for building this. These applications and the infrastructure around them will be detailed in a github repo.
 
-### General Tone
+## General Tone
 - Friendly
 - Respect for others
 - Quality listening
 - No swearing in public comunications as we want to be family friendly, you never know when a 5 year old is watching.
 - Succinct, no nonsense
 
-# Marketing copy details
+## Marketing copy details
 All marketing and communications shall be done using the followiing details where practical. In every occasion possible where unspent.space is written it is to be written in this form, lower case and true to the URL. This also continues to the specific locations for example unspent.space/melbourne or /melbourne.
 
 ## Colours
