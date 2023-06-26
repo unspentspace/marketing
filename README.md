@@ -30,6 +30,9 @@ All marketing and communications shall be done using the followiing details wher
 ## Figma design file
 Open viewable file with design artifacts: [https://www.figma.com/file/Ru5ceAQcfhFGyQegn8YuEh/unspentspace's-team-library?type=design&node-id=0%3A1&mode=design&t=ayyfCzoOIqnt9ay4-1](https://www.figma.com/file/Ru5ceAQcfhFGyQegn8YuEh/unspentspace's-team-library?type=design&node-id=0%3A1&mode=design&t=ayyfCzoOIqnt9ay4-1)
 
+<img width="500" alt="screenshot of figma library" src="https://github.com/unspentspace/marketing/assets/132414909/bb7f54ac-1197-4efb-90d2-396abd817894">
+
+
 ## Colours
 - Logo _uYellow RGB 240 179 62 HEX #f0b33e, _uGrey 114 107 97 #726b61
 - Dark backgrounds _uBlack 21 27 24 #131b23
